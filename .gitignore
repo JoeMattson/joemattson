@@ -4451,8 +4451,6 @@ jgiven-reports/
 *.wasm
 *.wat
 *.xhtml
-assets/*
-!assets/.gitignore
 protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
@@ -5001,7 +4999,6 @@ Generated Files
 AppPackages
 BundleArtifacts
 libs/
-assets/
 build_*_xcode/
 build_*_vc10/
 *.mode*v*
