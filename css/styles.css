@@ -5387,7 +5387,7 @@ textarea.form-control-lg {
 }
 @media (min-width: 1200px) {
   .modal-xl {
-    --bs-modal-width: 1140px;
+    --bs-modal-width: 1300px;
   }
 }
 .modal-fullscreen {
@@ -10978,10 +10978,9 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
-  height: 15rem;
+  width: 25rem;
+  height: 25rem;
   border-radius: 50%;
-  transform: rotate(-4deg);
 }
 
 
